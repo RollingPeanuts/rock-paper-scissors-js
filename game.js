@@ -27,7 +27,7 @@ function gameOver() {
 		scoreBoard.textContent = "GAME OVER! Player Wins!";
 	else
 		scoreBoard.textContent = "GAME OVER! Computer Wins!";
-	resultsDisplay.textContent = "Press a button to start!";
+	resultsDisplay.textContent = "";
 	playerScore = 0;
 	computerScore = 0;
 }

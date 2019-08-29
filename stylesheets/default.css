@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+	text-align: center;
+}
+
+button {
+	height: 65px;
+	width: 270px;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0 12px 0 12px;
+}
+
+h1 {
+	font-size: 100px;
+	text-decoration: underline dotted;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+p {
+	padding: 20px 0 20px 0;
+	margin: 0;
+	width: 864px;
+	border: 1px black solid;
+	font-size: 40px;
+}
+
+#container {
+	min-height: 100%;
+}
+
+#title-header {
+	padding-top: 70px;
+}
+
+#buttons-container {
+	margin-top: 20px;
+}
+
+#results-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+}
