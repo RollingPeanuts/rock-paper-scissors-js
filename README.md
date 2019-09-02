@@ -7,3 +7,4 @@ A simple javascript web app of the rock paper scissors game
 * How to target specific html elements and modify certain css attributes like text content
 * How to select multiple elements and parse through nodelists
 * How to add click event listeners to create an interactive html page 
+* How to add or delete elements in the html file through javascript
